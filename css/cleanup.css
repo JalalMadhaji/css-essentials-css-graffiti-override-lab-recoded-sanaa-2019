@@ -14,3 +14,8 @@ div#wall #tag-3.slick.wicked {
 div#wall div.parent #tag-5.slick {
   display: none;
 }
+div#wall div.parent div:last-child div#tag-6 {
+  background: url(../images/tag-6.png) no-repeat;
+  z-index: 2;
+  display: block;
+}
